@@ -1,0 +1,31 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0"><channel>
+<title>Buzz-in.net</title>
+<link>http://localhost/the%20draft/</link>
+<description>has an option about everything</description>
+<language>en-us</language>
+<pubDate>Sun, 19 May 13 04:58:31 +0200</pubDate>
+<lastBuildDate>Sun, 19 May 13 04:58:31 +0200</lastBuildDate>
+<generator>RedFox RSS Generator</generator>
+<item>
+<title>Can a man and a woman just be friends?1</title>
+<link>http://localhost/the%20draft/question.php?ID=5000003</link>
+<category>entertainment</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> Jan 01 01:01, 1970</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=5000003"/><div></div>]]></description>
+<pubDate>0000-00-00 00:00:00</pubDate>
+</item>
+<item>
+<title>Can a man and a woman just be friends?2</title>
+<link>http://localhost/the%20draft/question.php?ID=5000002</link>
+<category>entertainment</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> Jan 01 01:01, 1970</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=5000002"/><div></div>]]></description>
+<pubDate>0000-00-00 00:00:00</pubDate>
+</item>
+<item>
+<title>Can a man and a woman just be friends?3</title>
+<link>http://localhost/the%20draft/question.php?ID=5000001</link>
+<category>entertainment</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> Jan 01 01:01, 1970</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=5000001"/><div></div>]]></description>
+<pubDate>0000-00-00 00:00:00</pubDate>
+</item>
+</channel>
+</rss>

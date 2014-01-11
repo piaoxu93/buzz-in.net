@@ -1,0 +1,171 @@
+/* TIME.mk Widget
+Martin Ivanovski
+2013 - Apr
+ */
+body{
+	margin:0px;
+	overflow: hidden;
+	font-family: "Cambira", Arial, Helvetica, sans-serif;
+	background-color:#FFF;
+}
+.wrapper{
+	
+	border: solid 1px #AAA;
+	width:345px;
+	height:auto;
+	margin: 0px;
+	margin: 0 auto;
+}
+.head{
+	border-bottom: solid 1px #AAA;
+	margin-bottom:0px;
+	margin:0 auto;
+	width: 100%;
+	height: 46px;
+	background-color:#FFF;
+}
+.logo{
+	float:left;
+	margin-left:2px;
+	width: 115px;
+	height:45px;
+	background-image:url(../images/LOGOsmall.png);
+	background-repeat: no-repeat;
+}
+.category{
+	float:right;
+	margin-right:7px;
+	padding-top:13px;
+	font-size:20px;
+	color:#AAA;
+	font-weight:900;
+}
+.category a{
+	text-decoration: none;
+	color: #AAA;
+}
+.transition{
+	height:10px;
+	width:300px;
+	background-image:url(../images/transition.png);
+	background-repeat:no-repeat;
+	margin-top:2px;
+	margin-bottom:-3px;
+}
+#inverted{
+	background-image:url(../images/transition2.png);
+}
+
+.articles{
+	margin: 0 auto;
+	height: auto;
+	width:100%;
+	/*border-left:solid #878a99 2px;
+	border-right:solid #878a99 2px;*/
+}
+.article{
+	overflow:hidden;
+	margin: 0 auto;
+	background-color: #FFF;
+	height:89px;
+	width: 100%;
+	margin-bottom:0px;
+	border-bottom: solid 1px #AAA;
+	position:relative;
+	text-decoration: none;
+}
+
+.articles a{
+	text-decoration: none !important;
+	color:inherit;
+}
+.article:hover{
+	background-color: #EFEFEF;
+}
+
+.articleimage{
+	border-top: solid 1px #FFF;
+	border-bottom: solid 1px #FFF;
+	border-left: solid 1px #FFF;
+	float: left;
+	height:87px;
+	width:140px;
+	margin-right:2px;
+	position:relative;
+	overflow:hidden;
+	z-index:10;
+	
+}
+.articletext{
+	height:80px;
+	width:100%;
+}
+.thumbnail{
+	position:absolute;
+}
+.title{
+	max-height:60px;
+	margin-top:3px;
+	font-weight:bolder;
+	font-size: 16px;
+	color:#005;
+	text-decoration:none;
+	line-height:14px;
+	letter-spacing:-1px;
+	overflow:hidden;
+}
+.snipet{
+	font-size: 12px;
+	color:grey;
+	text-decoration:none;
+	line-height:14px;
+	overflow:hidden;
+}
+
+.count{
+	margin-right:5px;
+	margin-bottom:2px;
+	display:block;
+	font-size: 9px;
+	position:absolute;
+	color: #009000;
+	font-weight:400;
+	bottom: 0;
+	right: 0;
+}
+.count a{
+	text-decoration: none;
+	color: green;
+}
+.source{
+	margin-left:4px;
+	margin-bottom:2px;
+	display:block;
+	font-size: 9px;
+	font-weight:bold;
+	position:absolute;
+	color: gray;
+	bottom: 0;
+	left:82px;
+}
+
+.when_now{
+	color:#C00;
+}
+.when{
+	color:#000 !important;
+}
+.footer{
+	font-size:11px;
+	padding-top:3px;
+	text-align:center;
+	text-decoration:none;
+	margin:0 auto;
+	width: 100%;
+	height: 16px;
+	background-color:#FFF
+}
+.footer a{
+	text-decoration: none;
+	color:#333;
+}

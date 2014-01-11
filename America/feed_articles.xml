@@ -1,0 +1,45 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0"><channel>
+<title>Buzz-in.net/Articles</title>
+<link>http://localhost/America/articles.php</link>
+<description>has an opinion about everything</description>
+<language>en-us</language>
+<pubDate>Wed, 22 May 13 17:49:35 +0200</pubDate>
+<lastBuildDate>Wed, 22 May 13 17:49:35 +0200</lastBuildDate>
+<generator>RedFox RSS Generator</generator>
+<item>
+<title>These are most tourist-friendly countries in the world:</title>
+<link>http://localhost/the%20draft/question.php?ID=10000005</link>
+<category>articles</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> May 19, 2013  09:07 AM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=10000005"/><div>Iceland tops the list of countries most friendly to tourists.</div>]]></description>
+<pubDate>2013-05-19 09:07:00</pubDate>
+</item>
+<item>
+<title>Who cheats more men or women?1</title>
+<link>http://localhost/the%20draft/question.php?ID=10000004</link>
+<category>articles</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> May 19, 2013  01:19 PM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=10000004"/><div>brief text </div>]]></description>
+<pubDate>2013-05-19 13:19:00</pubDate>
+</item>
+<item>
+<title>Who cheats more men or women?1</title>
+<link>http://localhost/the%20draft/question.php?ID=10000003</link>
+<category>articles</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> May 19, 2013  08:09 AM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=10000003"/><div>brief text </div>]]></description>
+<pubDate>2013-05-19 08:09:00</pubDate>
+</item>
+<item>
+<title>Who cheats more men or women?2</title>
+<link>http://localhost/the%20draft/question.php?ID=10000002</link>
+<category>articles</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> May 19, 2013  07:07 AM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=10000002"/><div>brief text </div>]]></description>
+<pubDate>2013-05-19 07:07:00</pubDate>
+</item>
+<item>
+<title>Who cheats more men or women?3</title>
+<link>http://localhost/the%20draft/question.php?ID=10000001</link>
+<category>articles</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> May 19, 2013  02:02 PM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=10000001"/><div>brief text </div>]]></description>
+<pubDate>2013-05-19 14:02:00</pubDate>
+</item>
+</channel>
+</rss>

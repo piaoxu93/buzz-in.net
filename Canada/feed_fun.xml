@@ -1,0 +1,38 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0"><channel>
+<title>Buzz-in.net/Fun</title>
+<link>http://localhost/America/fun.php</link>
+<description>has an opinion about everything</description>
+<language>en-us</language>
+<pubDate>Wed, 22 May 13 17:49:34 +0200</pubDate>
+<lastBuildDate>Wed, 22 May 13 17:49:34 +0200</lastBuildDate>
+<generator>RedFox RSS Generator</generator>
+<item>
+<title>Who cheats more men or women?1</title>
+<link>http://localhost/the%20draft/question.php?ID=9000004</link>
+<category>fun</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> Jan 01, 1970  01:00 AM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=9000004"/><div></div>]]></description>
+<pubDate>0000-00-00 00:00:00</pubDate>
+</item>
+<item>
+<title>Who cheats more men or women?2</title>
+<link>http://localhost/the%20draft/question.php?ID=9000003</link>
+<category>fun</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> Jan 01, 1970  01:00 AM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=9000003"/><div></div>]]></description>
+<pubDate>0000-00-00 00:00:00</pubDate>
+</item>
+<item>
+<title>Who cheats more men or women?3</title>
+<link>http://localhost/the%20draft/question.php?ID=9000002</link>
+<category>fun</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> Jan 01, 1970  01:00 AM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=9000002"/><div></div>]]></description>
+<pubDate>0000-00-00 00:00:00</pubDate>
+</item>
+<item>
+<title>Who cheats more men or women?4</title>
+<link>http://localhost/the%20draft/question.php?ID=9000001</link>
+<category>fun</category>
+<description><![CDATA[<div style='margin-bottom:3px;'> Jan 01, 1970  01:00 AM</div><img width='140' height='87' style='clear:both;' src="display_picture.php?ID=9000001"/><div></div>]]></description>
+<pubDate>0000-00-00 00:00:00</pubDate>
+</item>
+</channel>
+</rss>
